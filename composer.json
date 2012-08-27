@@ -1,0 +1,17 @@
+{
+    "name": "antz29/base-session",
+    "description": "Session wrapper used by the Base PHP Framework",
+    "keywords": ["session", "base"],
+    "type": "library",
+    "homepage": "https://github.com/antz29/base-session",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "John Le Drew",
+            "homepage": "http://antz29.com/"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4.0"
+    }
+}
